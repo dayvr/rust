@@ -1,3 +1,4 @@
 [submodule "calculator-rs"]
 	path = calculator-rs
 	url = git@github.com:dayvr/calculator-rs.git
+	branch = main
